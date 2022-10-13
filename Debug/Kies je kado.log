@@ -1,0 +1,12 @@
+﻿  Kies je kado.cpp
+C:\Users\marti\source\repos\Kies je kado\Kies je kado.cpp(55,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\marti\source\repos\Kies je kado\Kies je kado.cpp(75,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\marti\source\repos\Kies je kado\Kies je kado.cpp(95,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\marti\source\repos\Kies je kado\Kies je kado.cpp(134,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\marti\source\repos\Kies je kado\Kies je kado.cpp(154,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\marti\source\repos\Kies je kado\Kies je kado.cpp(174,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\marti\source\repos\Kies je kado\Kies je kado.cpp(212,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\marti\source\repos\Kies je kado\Kies je kado.cpp(232,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\marti\source\repos\Kies je kado\Kies je kado.cpp(252,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\marti\source\repos\Kies je kado\Kies je kado.cpp(302,9): warning C4101: 'optie': unreferenced local variable
+  Kies je kado.vcxproj -> C:\Users\marti\source\repos\C++ Projects P7\Debug\Kies je kado.exe
